@@ -1,0 +1,26 @@
+[
+ {
+   "key": "SQB-OLT-N-01",
+   "latitude": -20.57874671154808,
+   "longitude": -47.86349296507545,
+   "name": "SAO JOAQUIM DA BARRA - SP"
+ },
+ {
+   "key": "GUA-OLT-N-01",
+   "latitude": -20.429327354109304,
+   "longitude": -47.825407980437824,
+   "name": "GUARA - SP"
+ },
+ {
+   "key": "MGD-OLT-N-01",
+   "latitude": -20.73155136709799,
+   "longitude": -48.05783102978042,
+   "name": "MORRO AGUDO - SP"
+ },
+ {
+    "key": "IWA-OLT-N-01",
+    "latitude": -20.440669814153694,
+    "longitude": -48.01296994328021,
+    "name": "IPUA - SP"
+ },
+]
