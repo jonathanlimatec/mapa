@@ -9,19 +9,19 @@
    "key": "PFM-URA-179924",
    "latitude": -19.747613140051115,
    "longitude": -47.95107347329854,
-   "name": "SDS (ID: 179924)" 
+   "name": "SDS (ID:179924)" 
  },
  {
    "key": "PFM-URA-179496",
    "latitude": -19.74488493967663,
    "longitude": -47.936764158435395,
-   "name": "MELHOR EM CASA (ID: 179496)"
+   "name": "MELHOR EM CASA (ID:179496)"
  },
  {
-    "key": "IWA-OLT-N-01",
+    "key": "PFM-URA-216388",
     "latitude": -20.440669814153694,
     "longitude": -48.01296994328021,
-    "name": "IPUA - SP"
+    "name": "UER - PONTO 2 (ID:216388)"
  },
  {
     "key": "SBV-OLT-N-01",
