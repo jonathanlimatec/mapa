@@ -1,0 +1,44 @@
+[
+ {
+   "key": "PFM-URA-199497",
+   "latitude": -19.750240137283452,
+   "longitude": -47.95924094617634,
+   "name": "POLICIA CIVIL FORUM ID: 199497"
+ },
+ {
+   "key": "GUA-OLT-N-01",
+   "latitude": -20.429327354109304,
+   "longitude": -47.825407980437824,
+   "name": "GUARA - SP"
+ },
+ {
+   "key": "MGD-OLT-N-01",
+   "latitude": -20.73155136709799,
+   "longitude": -48.05783102978042,
+   "name": "MORRO AGUDO - SP"
+ },
+ {
+    "key": "IWA-OLT-N-01",
+    "latitude": -20.440669814153694,
+    "longitude": -48.01296994328021,
+    "name": "IPUA - SP"
+ },
+ {
+    "key": "SBV-OLT-N-01",
+    "latitude": -20.593858219162307,
+    "longitude": -47.64187921740892,
+    "name": "SAO JOSE DA BELA VISTA - SP"
+ },
+ {
+   "key": "OIA-OLT-N-01",
+   "latitude": -20.720042348795275,
+   "longitude": -47.88480387507757,
+   "name": "ORLANDIA - SP"
+ },
+ {
+   "key": "IVR-OLT-N-01",
+   "latitude": -20.335851123884193,
+   "longitude": -47.78515978857777,
+   "name": "ITUVERAVA - SP"
+ }
+]
